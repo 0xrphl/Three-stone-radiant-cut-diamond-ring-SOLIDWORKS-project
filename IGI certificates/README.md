@@ -1,5 +1,9 @@
+## Main Stone
+
 <div style="text-align:center;">
+ <p style="text-align: center;">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNwdDZjbWI1dDV1a3RnYmJ6cWZ2ZHk5bm1mbGR3Y25jZDBid2M1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n8I8kT3tmlbZgTja1u/source.gif" alt="GIF" />
+  </p>
 </div>
 
 ## Material and Stones

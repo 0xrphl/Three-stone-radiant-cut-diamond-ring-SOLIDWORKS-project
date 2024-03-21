@@ -4,7 +4,7 @@
   </a>
 </div>
 <div style="text-align: center;">
-  <p tyle="text-align: center;">Click image below to check GrabCAD post</p>
+  <p style="text-align: center;">Click image below to check GrabCAD post</p>
   <a href="https://grabcad.com/library/three-stone-radiant-cut-diamond-ring-solidworks-project-1" align="center">
     <img src="https://i.ibb.co/SXYbm8t/Grab-CAD-post.png" alt="Grab-CAD-post" border="0" style="width: 100vw;  object-fit: contain;"/>
   </a>
@@ -53,7 +53,7 @@ In this project, we aim to provide a detailed SOLIDWORKS model for a three-stone
     - Symmetry: Excellent
     - Certification: IGI certified (IGI LG623492340)
 
-  - 2. Emerald cut diamond [Side stone 2]:
+  - 3. Emerald cut diamond [Side stone 2]:
     - Carat: 0.35
     - Clarity: VS1
     - Color: D
