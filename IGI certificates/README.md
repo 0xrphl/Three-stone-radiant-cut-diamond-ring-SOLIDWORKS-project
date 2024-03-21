@@ -1,6 +1,6 @@
 ## Main Stone
 
-![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzQxeXVwNDE1dm43YTI1anpxNXNwZzAwMHE2eWliZGlhc29rMGh3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e0uCXYTwHEN0RuzdzO/source.gif)
+![GIF](https://pouch.jumpshare.com/preview/ofXhHB55N-7CQY044kBwkTthFTwqDuQH35ecqeWjaPj4TwSp9VdsVnSpRLunx8wUNybNVTAjGJknKxnGuKehn9jwenLvfDi2wXd7zn8r16o)
 
 ## Material and Stones
 
