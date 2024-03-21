@@ -1,10 +1,6 @@
 ## Main Stone
 
-</div>
-<div style="text-align: center;">
-    <iframe src="https://giphy.com/embed/3EIluOYH4zHyHgg87e" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3EIluOYH4zHyHgg87e">via GIPHY</a></p>
-  </a>
-</div>
+![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmd6MzE5bzZtOGc2MTU4ZW1ybzJnenR2a2pocTNncGRkZjg3cnA4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3EIluOYH4zHyHgg87e/giphy.gif)
 
 ## Material and Stones
 
@@ -37,4 +33,4 @@
     - Symmetry: Very Good
     - Certification: IGI certified (IGI LG623492339)
 
-All certificates added to IGI certifications folder on Github repository. 
+All certificates added to IGI certifications folder on Github repository.
