@@ -65,11 +65,11 @@ All certificates added to IGI certifications folder on Github repository.
 
 ## Features
 
-- Three-stone design featuring radiant-cut diamonds
+- Three-stone design featuring radiant-cut diamond as the main stone
 - Gold ring setting
 - IGI certified diamonds
 - Detailed SOLIDWORKS model
-- Realistic rendering
+- Realistic rendering using SOLIDWORKS Visualize
 
 ## Installation
 
