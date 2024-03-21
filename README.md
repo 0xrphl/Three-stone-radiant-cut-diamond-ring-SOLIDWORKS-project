@@ -7,9 +7,7 @@
   </a>
 </div>
 <div style="text-align: center;">
-  <a href="https://grabcad.com/library/three-stone-radiant-cut-diamond-ring-solidworks-project-1">
-    <img src="https://i.ibb.co/rG8YpSx/Grab-CAD-post.png">
-  </a>
+  <a href="https://grabcad.com/library/three-stone-radiant-cut-diamond-ring-solidworks-project-1"><img src="https://i.ibb.co/SXYbm8t/Grab-CAD-post.png" alt="Grab-CAD-post" border="0" /></a>
 </div>
 
 Welcome to the Three Stone Radiant Cut Diamond Ring SOLIDWORKS project! This project focuses on creating a 3D model of a gold diamond ring featuring a three-stone design with IGI certified diamonds.
