@@ -1,5 +1,9 @@
 # Three-stone-radiant-cut-diamond-ring-SOLIDWORKS-project
 
+Welcome to the Three Stone Radiant Cut Diamond Ring SOLIDWORKS project! This project focuses on creating a 3D model of a gold diamond ring featuring a three-stone design with IGI certified diamonds.
+
+# 
+
 <div style="text-align: center;">
   <p>Click image below to check model video</p>
   <a href="https://www.youtube.com/watch?v=POwPjv-OPl4">
@@ -13,9 +17,6 @@
     <img src="https://i.ibb.co/SXYbm8t/Grab-CAD-post.png" alt="Grab-CAD-post" border="0" />
   </a>
 </div>
-
-
-Welcome to the Three Stone Radiant Cut Diamond Ring SOLIDWORKS project! This project focuses on creating a 3D model of a gold diamond ring featuring a three-stone design with IGI certified diamonds.
 
 ## Table of Contents
 
