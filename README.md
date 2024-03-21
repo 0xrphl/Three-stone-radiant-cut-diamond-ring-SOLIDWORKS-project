@@ -5,7 +5,7 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBodHprZnM1YWtmcWJvY2lkdTZ1eGlydGx3eWgxc3J0amxlMnJsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z7Yzg1CCFRFKFJNSIX/giphy.gif" style="display: inline-block;">
   </a>
   <a href="https://grabcad.com/library/three-stone-radiant-cut-diamond-ring-solidworks-project-1">
-    <img src="https://ibb.co/N6D5NP9" style="display: inline-block;">
+    <img src="https://i.ibb.co/rG8YpSx/Grab-CAD-post.png" style="display: inline-block;">
   </a>
 </div>
 
