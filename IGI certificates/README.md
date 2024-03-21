@@ -1,8 +1,9 @@
 ## Main Stone
 
+</div>
 <div style="text-align: center;">
-  <a href="https://www.youtube.com/watch?v=POwPjv-OPl4" align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWs5dXUxeTRkaWlvY2o4aXo0cmt0cG9wd2N6bmU3NTB6OGd4cG5yaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3EIluOYH4zHyHgg87e/source.gif" style="width: 100vw;">
+  <a href="https://grabcad.com/library/three-stone-radiant-cut-diamond-ring-solidworks-project-1" align="center">
+    <iframe src="https://giphy.com/embed/3EIluOYH4zHyHgg87e" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3EIluOYH4zHyHgg87e">via GIPHY</a></p>
   </a>
 </div>
 
