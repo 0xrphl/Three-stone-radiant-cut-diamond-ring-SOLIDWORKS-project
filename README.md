@@ -18,6 +18,7 @@ Welcome to the Three Stone Radiant Cut Diamond Ring SOLIDWORKS project! This pro
   </p>
 </div>
 
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
