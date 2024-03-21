@@ -2,7 +2,6 @@
 
 </div>
 <div style="text-align: center;">
-  <a href="https://grabcad.com/library/three-stone-radiant-cut-diamond-ring-solidworks-project-1" align="center">
     <iframe src="https://giphy.com/embed/3EIluOYH4zHyHgg87e" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3EIluOYH4zHyHgg87e">via GIPHY</a></p>
   </a>
 </div>
