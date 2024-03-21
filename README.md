@@ -2,7 +2,7 @@
 
 <div style="text-align: center;">
   <a href="https://www.youtube.com/watch?v=POwPjv-OPl4">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBodHprZnM1YWtmcWJvY2lkdTZ1eGlydGx3eWgxc3J0amxlMnJsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z7Yzg1CCFRFKFJNSIX/giphy.gif">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHllbjQ1N28zMnp5dWo2aHVkbWo4NnQ3anZoZnp6d3NoeDBpMnZmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iS0GK3PCHzpWyHHYYT/giphy.gif">
   </a>
   <a href="https://grabcad.com/library/three-stone-radiant-cut-diamond-ring-solidworks-project-1">
     <img src="https://i.ibb.co/SXYbm8t/Grab-CAD-post.png" alt="Grab-CAD-post" border="0" />
