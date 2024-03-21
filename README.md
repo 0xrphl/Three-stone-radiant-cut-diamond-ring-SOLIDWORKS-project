@@ -16,20 +16,52 @@
 
 Welcome to the Three Stone Radiant Cut Diamond Ring SOLIDWORKS project! This project focuses on creating a 3D model of a gold diamond ring featuring a three-stone design with IGI certified diamonds.
 
-# 
-
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Features](#features)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Contributing](#contributing)
-6. [License](#license)
+2. [Material and Stones](#material-and-stones)
+3. [Features](#features)
+4. [Installation](#installation)
+5. [Usage](#usage)
+6. [Contributing](#contributing)
+7. [License](#license)
 
 ## Introduction
 
 In this project, we aim to provide a detailed SOLIDWORKS model for a three-stone radiant cut diamond ring. The design includes precise measurements and configurations to accurately represent the final product.
+
+## Material and Stones
+
+- **Material:** 5.09 grams of 24K gold for the ring casting
+- **Diamond Stones:**
+  - 1. Radiant cut diamond [Main stone]:
+    - Carat: 3.14
+    - Clarity: VVS2
+    - Color: I
+    - Cut: Excellent
+    - Polish: Excellent
+    - Symmetry: Excellent
+    - Certification: IGI certified  (IGI LG467152839)
+  
+  - 2. Emerald cut diamond [Side stone 1]:
+    - Carat: 0.34
+    - Clarity: VS1
+    - Color: D
+    - Cut: Excellent
+    - Polish: Very Good
+    - Symmetry: Excellent
+    - Certification: IGI certified (IGI LG623492340)
+
+  - 2. Emerald cut diamond [Side stone 2]:
+    - Carat: 0.35
+    - Clarity: VS1
+    - Color: D
+    - Cut: Very Good
+    - Polish: Excellent
+    - Symmetry: Very Good
+    - Certification: IGI certified (IGI LG623492339)
+
+All certificates added to IGI certifications folder on Github repository.    
 
 ## Features
 
