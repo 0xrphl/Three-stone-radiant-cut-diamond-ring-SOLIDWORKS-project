@@ -7,7 +7,7 @@ Welcome to the Three Stone Radiant Cut Diamond Ring SOLIDWORKS project! This pro
 <div style="text-align: center;">
   <p style="text-align: center;">Click image below to check model video</p>
   <p href="https://www.youtube.com/watch?v=POwPjv-OPl4" align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHllbjQ1N28zMnp5dWo2aHVkbWo4NnQ3anZoZnp6d3NoeDBpMnZmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iS0GK3PCHzpWyHHYYT/giphy.gif" style="width: 100vw; height: 100vh; object-fit: contain;">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHllbjQ1N28zMnp5dWo2aHVkbWo4NnQ3anZoZnp6d3NoeDBpMnZmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iS0GK3PCHzpWyHHYYT/giphy.gif" style="width: 100vw;  object-fit: contain;">
   </p>
 </div>
 
