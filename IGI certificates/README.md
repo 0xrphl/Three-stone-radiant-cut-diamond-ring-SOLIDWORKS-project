@@ -1,8 +1,5 @@
 ## Main Stone
 
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWs5dXUxeTRkaWlvY2o4aXo0cmt0cG9wd2N6bmU3NTB6OGd4cG5yaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3EIluOYH4zHyHgg87e/source.gif
-
-
 <div style="text-align: center;">
   <a href="https://www.youtube.com/watch?v=POwPjv-OPl4" align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWs5dXUxeTRkaWlvY2o4aXo0cmt0cG9wd2N6bmU3NTB6OGd4cG5yaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3EIluOYH4zHyHgg87e/source.gif" style="width: 100vw;  object-fit: contain;">
